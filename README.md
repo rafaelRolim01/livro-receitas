@@ -2,5 +2,5 @@
 
 Olá ! Bem vindo ao meu Livro de receitas :wave:
 
-- Lasanha de carne 
-
+- Lasanha de carne
+- Strogonoff de Frango
